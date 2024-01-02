@@ -1,6 +1,6 @@
    ## Hi, i'm Guilherme Cruz
-- 👀 I’m interested in **Java and C#**
-- 🌱 I’m currently learning **Java, Javascript, Angular, Spring and AWS**
+- 👀 I’m interested in **C#**
+- 🌱 I’m currently learning **Java, Javascript, Angular, Spring, AWS and .NET**
 - 📫 How to reach me **guilherme.m.cruz4@gmail.com**
 
 <br>
@@ -12,7 +12,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/guilherme-cruz-268640225/" target="_blank">
+<a href="https://www.linkedin.com/in/cruz-g-m/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
 
 
