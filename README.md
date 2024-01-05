@@ -1,6 +1,6 @@
    ## Hi, i'm Guilherme Cruz
-- 👀 I’m interested in **C#**
-- 🌱 I’m currently learning **Java, Javascript, Angular, Spring, AWS and .NET**
+- 👀 I’m interested in **C# and .NET**
+- 🌱 I’m currently learning **C#, .NET, SQL and Angular**
 - 📫 How to reach me **guilherme.m.cruz4@gmail.com**
 
 <br>
