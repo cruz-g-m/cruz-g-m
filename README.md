@@ -1,6 +1,6 @@
    ## Hi, i'm Guilherme Cruz
 - 👀 I’m interested in **Java and Spring**
-- 🌱 I’m currently learning **Java, Spring, anda SQL**
+- 🌱 I’m currently learning **Java, Spring, and SQL**
 - 📫 How to reach me **guilherme.m.cruz4@gmail.com**
 
 <br>
